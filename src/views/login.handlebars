@@ -1,0 +1,20 @@
+<div class="container">
+    <h1>Login</h1>
+    <form id="loginForm">
+        <label>Email</label>
+        <input name="email" type="email">
+        <br/>
+        <label>Contraseña</label>
+        <input type="password" name="password">
+        <input type="submit">
+    </form>
+    <p>¿Olvidaste tu contraseña? <a href="/resetPassword">Restablecer contraseña</a></p>
+    <p>¿No estás registrado? <a href="/register">Regístrate aquí</a></p>
+    <div class="github-login">
+        <a href="/api/sessions/github" class="github-button">
+            <img src="/files/img/sources/github-mark-white.png" alt="GitHub Logo">
+            Ingresa con tu cuenta de GitHub
+        </a>
+    </div>
+</div>
+<script src="/files/js/login.js"></script>

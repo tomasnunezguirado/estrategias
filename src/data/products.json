@@ -1,0 +1,35 @@
+[
+	{
+		"id": "ECLzUrQ_f",
+		"title": "Producto de prueba",
+		"description": "Producto de prueba",
+		"code": "1",
+		"price": 100,
+		"status": true,
+		"stock": 10,
+		"category": "producto de prueba",
+		"thumbnails": []
+	},
+	{
+		"id": "YdHht5QXh",
+		"title": "Producto de prueba",
+		"description": "Producto de prueba",
+		"code": "2",
+		"price": 100,
+		"status": true,
+		"stock": 10,
+		"category": "producto de prueba",
+		"thumbnails": []
+	},
+	{
+		"id": "YVESWNUpq",
+		"title": "Producto de prueba",
+		"description": "Producto de prueba",
+		"code": "3",
+		"price": 100,
+		"status": true,
+		"stock": 10,
+		"category": "producto de prueba",
+		"thumbnails": []
+	}
+]
